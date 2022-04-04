@@ -1,4 +1,4 @@
-# Frontend Mentor - Testimonials grid section solution
+# Doom - Minimal Agency Template
 
 This is a recreation of Doom - Minimal Agency Template from Graphberry.com
 
